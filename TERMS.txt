@@ -1,0 +1,14 @@
+Helium Solo: terms of use
+Copyright © 2026 Kasanki Labs. All rights reserved.
+
+Helium Solo is free. You may install it and use it for any purpose, including commercial work, and share unchanged copies of its installer and packages.
+
+You may not sell it or rent it out, offer it to others as a hosted service, or change, decompile or reverse-engineer it, except where the law allows this despite these terms. Keep these terms and Kasanki Labs' notices with every copy.
+
+Parts of Helium Solo are open source under their own licences. The Kasanki Helium SDK is under the GNU Affero General Public License version 3 with an attribution term; those licences apply to those parts.
+
+Privacy: Helium Solo runs on your machine and sends nothing to Kasanki Labs. Your recordings stay in your data folder. If you turn on AI analysis, run data goes only to the AI provider you choose, with your own key.
+
+Helium Solo comes with no warranty. To the extent the law allows, Kasanki Labs is not liable for any loss or damage from using it.
+
+These terms can change in later versions. The terms that came with your version apply to it.
