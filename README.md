@@ -5,6 +5,7 @@ Installers and programs for [Helium Solo](https://helium-solo.pages.dev) by Kasa
 Download them from [Releases](https://github.com/Kasanki-Labs/helium-releases/releases):
 
 - `helium-solo-<version>-windows-x64-setup.exe`: the desktop app for Windows, with everything it needs.
+- `helium-solo-<version>-linux-x86_64.AppImage` and `helium-solo_<version>_amd64.deb`: the desktop app for Linux, with everything it needs.
 - `helium-solo-<version>-windows-x64.zip` and `helium-solo-<version>-linux-x64.tar.gz`: the `helium` command-line program on its own.
 - `SHA256SUMS.txt`: the checksum of each file.
 
